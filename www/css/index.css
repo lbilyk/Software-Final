@@ -1,0 +1,9 @@
+
+body {
+    background-image: url("../img/background.jpg");
+    background-repeat: repeat;
+}
+
+.card-credentials{
+    max-width: 500px;
+}
